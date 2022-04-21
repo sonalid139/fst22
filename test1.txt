@@ -1,1 +1,2 @@
 This is the code line1
+This line is added in github & then pull command will be executed from local system to sync the file
